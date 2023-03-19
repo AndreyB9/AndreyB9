@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="60%" height="20%" alt="animated" />
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="25%" height="25%" alt="animated" />
 </p>
 <h2 align="center">Hi there👋, I'm Andrey Bulganin</h2>
 <h8 align="center">My name is Andrey Bulganin and I'm an iOS developer. I have a passion for creating intuitive and user-friendly mobile applications that make a positive impact on people's lives. I specialize in developing applications for the iOS platform using Swift and Xcode. I'm skilled in developing and integrating RESTful APIs, implementing user interfaces, and working with various third-party libraries and frameworks. I'm excited about the latest advancements in iOS development and always looking for ways to improve my skills and stay up-to-date with the latest trends and technologies. I'm also a collaborative team player and enjoy working in agile environments where I can contribute my expertise and learn from others.</h8>

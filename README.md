@@ -14,6 +14,7 @@
 
 - 📱 **UIKit, Core Data, Core Animation**
 
+- 💬 **C1 English**
 
 
 <h3 align="left">Languages and Tools:</h3>
